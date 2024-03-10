@@ -3,8 +3,8 @@
 </script>
 
 <template>
-  <div class="">Hello</div>
-  <Router-view></Router-view>
+  <div class="mr-1"></div>
+  <RouterView />
 </template>
 
 <style scoped>
