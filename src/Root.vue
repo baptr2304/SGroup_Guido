@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue';
-import { useRoute, useRouter } from 'vue-router';
+import { useRoute } from 'vue-router';
 import LayoutDefault from './layouts/default.vue'
 import LayoutAuth from './layouts/auth.vue'
 

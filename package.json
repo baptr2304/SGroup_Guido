@@ -9,12 +9,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
     "@vitejs/plugin-vue-jsx": "^3.1.0",
+    "element-plus": "^2.6.3",
     "vue": "^3.4.19",
     "vue-router": "^4.3.0"
   },
   "devDependencies": {
+    "@antfu/eslint-config": "^2.12.1",
     "@vitejs/plugin-vue": "^5.0.4",
+    "eslint": "^8.57.0",
+    "sass": "^1.74.1",
     "typescript": "^5.2.2",
     "unplugin-auto-import": "^0.17.5",
     "vite": "^5.1.4",
